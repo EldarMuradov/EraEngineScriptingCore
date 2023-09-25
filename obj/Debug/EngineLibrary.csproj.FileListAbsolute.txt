@@ -1,0 +1,16 @@
+E:\ESGS Studio Engine\x64\Debug\EngineLibrary.dll
+E:\ESGS Studio Engine\x64\Debug\EngineLibrary.pdb
+E:\ESGS Studio Engine\EngineLibrary\obj\Debug\EngineLibrary.csproj.CoreCompileInputs.cache
+E:\ESGS Studio Engine\EngineLibrary\obj\Debug\EngineLibrary.dll
+E:\ESGS Studio Engine\EngineLibrary\obj\Debug\EngineLibrary.pdb
+E:\ESGS Studio Engine\EngineLibrary\obj\Debug\EngineLibrary.csproj.CopyComplete
+E:\Engine\Game Engine\Game Engine\x64\Debug\EngineLibrary.dll
+E:\Engine\Game Engine\Game Engine\x64\Debug\EngineLibrary.pdb
+E:\Engine\Game Engine\Game Engine\bin\Debugx64\EngineLibrary.dll.config
+E:\Engine\Game Engine\Game Engine\bin\Debugx64\EngineLibrary.dll
+E:\Engine\Game Engine\Game Engine\bin\Debugx64\EngineLibrary.pdb
+E:\Engine\Game Engine\Game Engine\EngineLibrary\obj\Debug\EngineLibrary.csproj.CoreCompileInputs.cache
+E:\Engine\Game Engine\Game Engine\EngineLibrary\obj\Debug\EngineLibrary.csproj.CopyComplete
+E:\Engine\Game Engine\Game Engine\EngineLibrary\obj\Debug\EngineLibrary.dll
+E:\Engine\Game Engine\Game Engine\EngineLibrary\obj\Debug\EngineLibrary.pdb
+E:\Engine\Game Engine\Game Engine\EngineLibrary\obj\Debug\EngineLibrary.csproj.AssemblyReference.cache
