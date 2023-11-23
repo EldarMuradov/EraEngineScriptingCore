@@ -51,12 +51,6 @@ namespace EngineLibrary.Math
 			return new Quaternion(0, 0, 0, 1);
 		}
 
-		public float Angle(Quaternion q)
-		{
-			float d = System.Math.Min(System.Math.Abs(Dot(q)), 1.0f);
-			return EqualUsingDot(d) ? 0.0f : (float)System.Math.Acos(d) * 2.0f * Math.Rad2Deg;
-		}
-
 		public static Quaternion operator *(Quaternion lhs, Quaternion rhs)
 		{
 			return new Quaternion(
