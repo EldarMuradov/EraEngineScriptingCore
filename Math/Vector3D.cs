@@ -207,12 +207,6 @@ namespace EngineLibrary.Math
 
             return v;
         }
-        public float Angle(Vector3D vector)
-        {
-            float d = Dot(vector);
-
-            return (float)System.Math.Acos(d) * Math.Rad2Deg;
-        }
 
         void Rotate(Vector3D ang)
         {
