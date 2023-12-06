@@ -33,39 +33,6 @@ namespace EngineLibrary.Math
             Mat[3, 2] = translation.Z;
         }
 
-        public void SetRotationX(float x)
-        {
-            Mat[1, 1] = (float)System.Math.Cos(x);
-            Mat[1, 2] = (float)System.Math.Sin(x);
-            Mat[2, 1] = -(float)System.Math.Sin(x);
-            Mat[2, 2] = (float)System.Math.Cos(x);
-        }
-
-        public void SetRotationY(float y)
-        {
-            Mat[0, 0] = (float)System.Math.Cos(y);
-            Mat[0, 2] = -(float)System.Math.Sin(y);
-            Mat[2, 0] = (float)System.Math.Sin(y);
-            Mat[2, 2] = (float)System.Math.Cos(y);
-        }
-
-        public void SetRotationZ(float z)
-        {
-            Mat[0, 0] = (float)System.Math.Cos(z);
-            Mat[0, 1] = (float)System.Math.Sin(z);
-            Mat[1, 0] = -(float)System.Math.Sin(z);
-            Mat[1, 1] = (float)System.Math.Cos(z);
-        }
-
-        public void SetRotation(Vector3D rotation)
-        {
-            SetRotationX(rotation.X);
-
-            SetRotationY(rotation.Y);
-
-            SetRotationZ(rotation.Z);
-        }
-
         public void SetScale(Vector3D scale)
         {
             Mat[0, 0] = scale.X;
